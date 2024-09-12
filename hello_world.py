@@ -1,5 +1,9 @@
 def print_hello():
-	printf("Hello world!!")
+    print("Hello World!!")
 
-if __name__ == '__main__';
-	print_hello()
+def print_KIT():
+    print("Kumoh National Institude of Technology.")
+
+if __name__ '__main__':
+    print_KIT()
+    print_hello()
